@@ -1,0 +1,21 @@
+{
+  "name": "core-redux",
+  "version": "1.0.0",
+  "description": "Reducers, actions, selectors",
+  "main": "core",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
