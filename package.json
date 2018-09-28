@@ -1,7 +1,7 @@
 {
-  "name": "core-redux",
+  "name": "core",
   "version": "1.0.0",
-  "description": "Reducers, actions, selectors",
+  "description": "Reducers, actions, selectors, sagas, api",
   "main": "core",
   "scripts": {
     "test": ""
@@ -16,6 +16,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "redux": "^4.0.0"
+    "redux": "^4.0.0",
+    "redux-saga": "^0.16.0"
   }
 }
